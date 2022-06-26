@@ -48,7 +48,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        ToDo List App By Suraj
+        ToDo List App By Suraj using ReactJs & localStorage
       </header>
       <Form 
       inputText={inputText}
