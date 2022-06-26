@@ -1,3 +1,16 @@
+# Stack Used: 
+HTML
+CSS
+Javascript
+ReactJs
+LocalStorage
+
+# Created By: 
+# Suraj Kumar Jena
+
+# Modifications
+Adding More Features so stay tuned..
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
